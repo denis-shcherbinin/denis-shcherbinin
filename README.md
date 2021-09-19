@@ -1,6 +1,6 @@
 <h1 align="left">Denis Shcherbinin 👋</h1>
 
-- 💻 Core Stack: **Golang <img width=3% src="gopher-dance-long.gif ">
+- 💻 Core Stack: **Golang <img width=2% src="gopher-dance-long.gif ">
                    PostgreSQL 🐘 
                    Docker 🐳**
 - 🎯 Mainly focused on Backend.
